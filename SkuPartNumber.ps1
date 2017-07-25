@@ -1,6 +1,5 @@
 $Global:LastUpdate = "25/07/2017"
 $Global:SkuPartNumber = @{
-    'test' = 'jason test'
     'AAD_BASIC' = 'Azure Active Directory Basic'
     'AAD_BASIC_FACULTY' = 'Azure Active Directory Basic for Faculty'
     'AAD_BASIC_STUDENT' = 'Azure Active Directory Basic for Students'
