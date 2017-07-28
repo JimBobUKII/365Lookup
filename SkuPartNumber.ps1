@@ -1,4 +1,4 @@
-$Global:LastUpdate = "25/07/2017"
+$Global:LastUpdate = "28/07/2017"
 $Global:SkuPartNumber = @{
     'AAD_BASIC' = 'Azure Active Directory Basic'
     'AAD_BASIC_FACULTY' = 'Azure Active Directory Basic for Faculty'
@@ -164,7 +164,7 @@ $Global:SkuPartNumber = @{
     'WIN10_PRO_ENT_SUB' = 'Windows 10 Enterprise E3'
     'WIN_ENT_E5' = 'Windows 10 Enterprise E5'
     'YAMMER_ENTERPRISE_STANDALONE' = 'Yammer Enterprise'
-    'PROJECTCLIENT' = 'Project for Office 365'
+    'PROJECTCLIENT' = 'Project Pro for Office 365'
     'POWERAPPS_INDIVIDUAL_USER' = 'PowerApps and Logic Flows'
     'POWER_BI_STANDARD' = 'Power BI (free)'
     'FLOW_FREE' = 'Microsoft Flow Free'
