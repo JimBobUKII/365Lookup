@@ -171,5 +171,5 @@ $Global:SkuPartNumber = @{
     'POWERAPPS_VIRAL' = 'Microsoft Power Apps & Flow'
     'CRMSTANDARD' = 'Microsoft Dynamics CRM Online Professional'
     'DYN365_ENTERPRISE_P1_IW' = 'Dynamics 365'
-    'RMSBASIC' = 'Azure Rights Management'
+    'RMSBASICsssssss' = 'Azure Rights Management'
 }
